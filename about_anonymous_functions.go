@@ -8,7 +8,7 @@ func aboutAnonymousFunctions() {
 		}
 		increment()
 
-		assert(i == __int__) // closures function in an obvious way
+		assert(i == 2) // closures function in an obvious way
 	}
 
 	{
